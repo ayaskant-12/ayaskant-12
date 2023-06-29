@@ -4,7 +4,7 @@
 - 🤔 I’m looking for help with Web Development skills;
 - 🌱 I’m currently pursuing my btech from kiit deemed to be university
 - 📫 How to reach me via email - rajfire562@gmail.com
-<img src="https://avatars.githubusercontent.com/u/104549230?s=400&u=125b348c500cf98b730f3fb3b93c76df82e95b54&v=4" align="left" style="width: 60%" />  
+<img src="https://avatars.githubusercontent.com/u/104549230?s=400&u=125b348c500cf98b730f3fb3b93c76df82e95b54&v=4" align="left" style="width: 80%" />  
   
 
 ### <div align="center">I'm Ayaskant Dash, a full-stack Web developer 👨‍💻 studing since 2021 🚀</div>  
