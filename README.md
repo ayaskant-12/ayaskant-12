@@ -4,7 +4,7 @@
 - 🤔 I’m looking for help with Web Development skills;
 - 🌱 I’m currently pursuing my btech from kiit deemed to be university
 - 📫 How to reach me via email - rajfire562@gmail.com
-<img src="https://avatars.githubusercontent.com/u/104549230?s=400&u=125b348c500cf98b730f3fb3b93c76df82e95b54&v=4" align="left" style="width: 100%" />  
+<img src="https://avatars.githubusercontent.com/u/104549230?s=400&u=125b348c500cf98b730f3fb3b93c76df82e95b54&v=4" align="left" style="width: 60%" />  
   
 
 ### <div align="center">I'm Ayaskant Dash, a full-stack Web developer 👨‍💻 studing since 2021 🚀</div>  
@@ -116,8 +116,6 @@
 <div align="center"></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 <!---
 ayaskant-12/ayaskant-12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
