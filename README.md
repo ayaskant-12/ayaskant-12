@@ -1,22 +1,28 @@
-- 👋 Hi, I’m @ayaskant-12
-- 👀 I’m currently interested in web development
-- 🌱 I'm currently learning react native
-- 🤔 I’m looking for help with Web Development skills;
-- 🌱 I’m currently pursuing my btech from kiit deemed to be university
-- 📫 How to reach me via email - rajfire562@gmail.com
-<img src="https://avatars.githubusercontent.com/u/104549230?s=400&u=125b348c500cf98b730f3fb3b93c76df82e95b54&v=4" align="left" style="width: 80%" />  
+<img src="https://lh3.googleusercontent.com/pw/AJFCJaUMuCqOoXwNSl4N0flgXXMlauPCfM0DwN-6nnbbcCj6g_B6wW0V3isTIpTkyeSdUkaJ6tmrgPGO3Vp-6ITdH2fxqbVrewaPtJJvRip9sTKgbmtExiDFxvLglj2aKPpZL4_XidZuIMoZxS3UI9cQMO6McoBUqJPk4cBAzWllo2r_dHwdP3oViiGbYWy44x_pnoUYHalFY58Y4vF61ffc4uWMTrxOMqUmMllXrOJ8FGrWNhAPeKCnIXy5p0TKJvn7V4h_AN-WijqsaFs_CyHp3xrRnPmfntutwdpgSzspB9vsCZCT5W5CYtwoAk1amlZaQQUjBFCQpb3ykcJ_E_GRKMhLlnW8LbhCqv9ko_0uMKM8R48ixVpV1Kxy_fkUjd9_FvRKfXFD6C_A7o7yWoxMOPEh0deFBstxZD8Nl4wi531GxHqLBkEX6Q3-xOrkmKnK8sm1EvyX8slMIaEgngZ37UAjU521jx14XN9-7oMXFeQXoiby92aWoQgGUpw-W1NLUh86G0swUOUBQWHnbwL6yIWmUYhrCZNKRJuge3cabZq7Yhv7892h8JnM_dXf1R0RbC7UeD4N6ffKHzH4j5UTGYoDy-gr5BvEyRqVjsDOqmnu37QJOzecCJv2u2oUEVuCJjBOIWio0f9g_dAR_AJwUWGseTrGomSKxE5vAfNtjiFPViODAHnWNAJRzfKMl0J4OpzwVeSDMFizdUrmSgxDx_3P__F2MVpPQFZfvyZl6yIsWv9IsU45J_C2Qf-2LovPXJj9FH36AXSbZE82S242osQArvCtDnKbFdSuqr8WETASsXdoPh04Ih4lWpmq45V3gDqun3Cl8_Pi1bYgRmiGTlDol8rLqOwN7mpeV7-g53i4668IAHSNwoLd0nLItdb_hgdVXMpWRxGKcTt6TBzDDg=w512-h384-s-no?authuser=0" align="left" style="width: 100%" />  
   
 
 ### <div align="center">I'm Ayaskant Dash, a full-stack Web developer 👨‍💻 studing since 2021 🚀</div>  
   
 
-- 🔭 I’m currently studing in KIIT University   
+- 👋 Hi, I’m @ayaskant-12  
+  
+
+- 🔭I’m currently interested in web development  
+  
+
+- 🤔 I’m looking for help with Web Development skills;  
   
 
 - 🌱 I’m currently learning react and node.js  
   
 
+- 🎓 I’m currently pursuing my Bachelor of Technology from KIIT deemed to be university  
+  
+
 - ❓ Ask me about anything related to MERN stack and related technologies  
+  
+
+- 📫 How to reach me via email - rajfire562@gmail.com  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
@@ -116,6 +122,8 @@
 <div align="center"></div>
 <br />
 
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 <!---
 ayaskant-12/ayaskant-12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
