@@ -22,7 +22,7 @@
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- 📫 How to reach me via email - rajfire562@gmail.com  
+- 📫 How to reach me via email - ayaskant2003@gmail.com  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
