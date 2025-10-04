@@ -16,10 +16,10 @@
 - 🌱 I’m currently learning react and node.js  
   
 
-- 🎓 I’m currently pursuing my Bachelor of Technology from KIIT deemed to be university  
+- 🎓 I have completed my Bachelor of Technology from KIIT deemed to be university  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to Web technology and related technologies  
   
 
 - 📫 How to reach me via email - ayaskant2003@gmail.com  
